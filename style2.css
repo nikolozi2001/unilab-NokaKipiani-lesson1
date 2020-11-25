@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(205, 133, 63);
+}
+h1{
+    font-size: 60px;
+    color: white;
+    display: inline;
+}
+.text1{
+    width: 598px;
+    padding-top: 50px;
+}
+.text2{
+    /* height: 10px; */
+    width: 365px;
+    font-size: 17px;
+    padding-top: 50px;
+}
+p{
+    color: white;
+}
+.pBlack{
+    color: black;
+}
+.large{
+    font-size: x-large;
+    margin-top: -17px;
+    font-size: 27px;
+    width: 410px;
+}
+.mTop{
+    margin-top: -30px;
+}
+img {
+    width: 600px;
+}
+.all{
+    margin-left: 40px;
+}
